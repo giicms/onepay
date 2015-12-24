@@ -1,0 +1,21 @@
+{
+    "name": "zaknight/onepay",
+    "description": "Integrated payment in laravel simple onepay",
+    "authors": [
+        {
+            "name": "ZAKnight",
+            "email": "letrunghoa90@gmail.com",
+            "homepage": "http://zatoday.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "zaknight\\onepay\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
